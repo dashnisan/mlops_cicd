@@ -1,4 +1,5 @@
 # Machine Learning Engineering for Production
+[![C4W3-Ungraded-Lab](https://github.com/dashnisan/mlops_cicd/actions/workflows/course4-week3-lab.yml/badge.svg)](https://github.com/dashnisan/mlops_cicd/actions/workflows/course4-week3-lab.yml)
 
 Welcome to the public repo for [deeplearning.ai](https://www.deeplearning.ai/)'s Machine Learning Engineering for Production Specialization.
 
